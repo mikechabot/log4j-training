@@ -1,4 +1,4 @@
 SysInfo
 =======
 
-A "hello world" playground for log4j.
+A helpful tool for Support that provides a sandbox for messing around with log4j.
